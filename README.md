@@ -58,8 +58,8 @@ print(accuracy_score(Y_test, Y_pred))
 ```
 
 ## Output:
-![](r1.png)
-![](r2.png)
+![](r1.jpeg)
+![](r2.jpeg)
 
 
 ## Result:
